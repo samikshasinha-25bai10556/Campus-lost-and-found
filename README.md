@@ -25,14 +25,14 @@ The project provides a basic way to record item information such as the item nam
 
 ## Project Structure
 
-```text
+
 Campus-Lost-and-Found/
 │
 ├── README.md
 ├── LostAndFound.java
 └── report/
     └── Project-Report.pdf
-```
+
 
 ## Requirements
 
@@ -82,11 +82,10 @@ java LostAndFound
 
 A student can report:
 
-```text
 Item Name: Black Wallet
 Location: Library
 Type: LOST
-```
+
 
 The system generates an item ID and stores the information.
 
